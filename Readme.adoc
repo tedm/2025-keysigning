@@ -10,9 +10,9 @@ Guide and notes for an unofficial https://en.wikipedia.org/wiki/Key_signing_part
 .. https://seagl.org/coc[the SeaGL code of conduct].
 . Create your keypair if you don't already have one.
 . Share your public key publicly.
-. Add a row to the table below to share your key ID, proof, and signed key sharing preference.
+. Add a row to the table below to share your signed key sharing preference.
 . Bring to the party:
-.. OPTIONAL: some form of government-issued ID (passport or similar). Maybe better: include a link to your proof in the table below.
+.. Some form of government-issued ID (passport or similar).
 .. Printouts with your name, email, key ID and algorithm, key fingerprint.
 . After the party / in private:
 .. Sign keys.
@@ -28,6 +28,7 @@ Name and email are optional.
 |Name (optional) |Email user (optional) |Email domain (optional) |Key ID |Proof |Signed key sharing preference
 
 |Adam Monsen |haircut |gmail.com |`0xA9A14F22F57DA182` |https://adammonsen.com/seagl-2025-keysigning-party-proof/[proof] |upload to `keyserver.ubuntu.com`
+|Ted Matsumura |matsumura |gmail.com |`0x83995F6352AD05FA` |will bring Govt ID to show |upload to `keyserver.ubuntu.com`
 |===
 
 **Email** address is split into two columns as a weak anti-spam obfuscation.
